@@ -2,6 +2,13 @@
 # King of Glory Esports Competition Simulation
 
 This project simulates different tournament formats for the King of Glory (王者荣耀) esports competition. The script models results of various tournament styles including Swiss format, single round-robin, and knockout stages to estimate team performance and progression.
+## Fairness Analysis of King of Glory Tournament
+
+This project presents a fairness analysis of the King of Glory esports tournament format. The simulation models various aspects of the competition, aiming to assess how fair the outcomes are for all participating teams.
+
+For a detailed explanation of the analysis, you can watch the video presentation here: [Fairness Analysis of KPL Esports Tournament](https://www.bilibili.com/video/BV1SM411Q7TS/?spm_id_from=333.999.0.0).
+
+This video provides a comprehensive overview of the tournament structure, simulation methodology, and key findings related to fairness.
 
 ## Features
 
